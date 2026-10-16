@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.282](https://github.com/UKGovernmentBEIS/inspect_ai/compare/0.3.281...0.3.282) (2026-10-16)
+
+
+### Bug Fixes
+
+* **view:** enforce the log viewer's Content-Security-Policy in inspect view and view bundle ([#5552](https://github.com/UKGovernmentBEIS/inspect_ai/issues/5552)) ([7afcb24](https://github.com/UKGovernmentBEIS/inspect_ai/commit/7afcb2411d3459250bbab3246b454cef69a34d62))
+
 ## [0.3.281](https://github.com/UKGovernmentBEIS/inspect_ai/compare/0.3.280...0.3.281) (2026-10-15)
 
 
